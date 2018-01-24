@@ -1,11 +1,11 @@
 # Eddie's 2018 Goals
-==============
 
 ### Weekly Goals - 3rd Week
 
 1. Build 1+ pens on CodePen 
 2. Continue reading personal/life improvement book
 3. Watch tutorials (Plural Sight, Lynda, Laracast, Treehouse, CodeCourse).
+4. Working on communicating, delegate and planing before rushing to finish task. (should also apply to personal life)
 
 ==============
 
