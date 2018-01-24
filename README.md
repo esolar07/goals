@@ -1,31 +1,36 @@
-# Eddie's Goals
+# Eddie's 2018 Goals
+==============
 
+### Weekly Goals - 3rd Week
 
+1. Build 1+ pens on CodePen 
+2. Continue reading personal/life improvement book
+3. Watch tutorials (Plural Sight, Lynda, Laracast, Treehouse, CodeCourse).
 
-### Weekly Goals
+==============
 
-1. Build 1+ pens on CodePen
-2. Read Mindfulness book
-3. Finish [Lynda.com](http://www.lynda.com/member) tutorials
+### Monthly Goals - January
 
-
-### Monthly Goals
-
-1. Build site with AngularJS
-2. Write one blog post a month
+1. Build site with with React and Laravel as an API
+2. Write one blog post or work on MeetUp talk
 ⋅⋅* On CodePen
-3. Get involed in the Miami dev community
+⋅⋅* MeetUp
+3. Help with WCMIA2018
+4. Complete one full tutorial (Plural Sight, Lynda, Laracast, Treehouse, CodeCourse).
+5. Start [JavaScript 30](https://javascript30.com/)
+
+==============
+
+### Goals for the 2018
+
+1. Learn new tech - Node.js. NoSQL( MongoDB), Serverless, Alex Skill) - [ ]
+2. Starti learning new Langauges - [ ]
+⋅⋅* Python, Ruby, Go
+3. Begin learning server admin - [ ]
+4. Get involed in the Miami dev community - [ ]
 ⋅⋅* FEDM Meetup
 ⋅⋅* MiamiJS Meetup
-
-
-
-### Goals for the year
-
-1. Go hardcore on JS
-2. Learn Node.js
-3. Learn ES6
-4. Brush up on PHP
-5. Starting learning new Langauga
-⋅⋅* Python or Ruby
+⋅⋅* PHP Meetup
+⋅⋅* WP Meetup
+5. Run a marathon - [ ]
  
